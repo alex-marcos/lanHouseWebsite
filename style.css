@@ -10,7 +10,7 @@ header {
 	position: relative;
 	width: 100%;
 	margin: -20px;
-	font-family: 'Press Start 2P', cursive;
+	font-family: 'Audiowide', cursive;
 }
 nav {
 	position: absolute;
@@ -46,33 +46,62 @@ nav a:hover {
 
 .titulo-principal {
 	text-align: center;
-	font-size: 2em;
+	font-size: 3em;
 	margin: 0 0 1em;
 	clear: left;
 	font-family: 'Splash', cursive;
+	color: #FFFFFF;
 }
 
-
 .principal {
-	margin: 20px;
+	padding: 3em 0;
+	width: 940px;
+	margin: 0 auto;
+	color: #FFFFFF;
+	
+}
+
+.principal h2 {
+	margin: 25px;
+	font-size: 4em;
 }
 
 .principal p {
 	margin: 0 0 1em;
-
+	font-family: 'Audiowide', cursive;
+	font-size: 25px;
 }
 
 .principal strong {
 	font-weight: bold;
+	color: #1abaff;
 }
 
 .principal em {
 	font-style: italic;
+	color: #1abaff;
 }
 
 .cyber {
 	width: 300px;
 	float: left;
+	margin: 0 20px 20px 0;
+
+}
+
+.vantagens {
+	font-family: 'Audiowide', cursive;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.vantagens h4 {
+	clear: right;
+}
+
+.setup {
+	width: 300px;
+	float: right;
 	margin: 0 20px 20px 0;
 }
 
@@ -83,7 +112,7 @@ nav a:hover {
 
 .mapa {
 
-	margin: 3em 0;
+	padding: 3em 0;
 }
 
 .mapa p {
@@ -144,8 +173,7 @@ nav a:hover {
 }
 
 main {
-	width: 940px;
-	margin: 0 auto;
+	background: linear-gradient(#14003d, #ff00e2, #1abaff,#14003d );
 }
 
 Form {
