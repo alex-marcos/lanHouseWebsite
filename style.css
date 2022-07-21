@@ -90,7 +90,8 @@ nav a:hover {
 }
 
 .vantagens {
-	font-family: 'Audiowide', cursive;
+	font-family: 'Splash', cursive;
+	color: #FFFFFF;
 	width: 940px;
 	margin: 0 auto;
 }
@@ -99,10 +100,22 @@ nav a:hover {
 	clear: right;
 }
 
-.setup {
-	width: 300px;
-	float: right;
-	margin: 0 20px 20px 0;
+.vantagens ul {
+	padding: 1em 0;
+	font-size: 3em;
+	text-align: left;
+	display: inline-block;
+	text-align: center;
+
+}
+
+.vantagens  {
+	text-align: center;
+}
+
+.imgvantagem {
+	width: 400px;
+	padding: 1em;
 }
 
 .video {
