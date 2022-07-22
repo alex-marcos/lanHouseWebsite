@@ -179,6 +179,18 @@ nav a:hover {
 	margin: 0 auto;
 	padding: 50px 0;
 }
+
+.produtos img {
+	width: 250px;
+}
+
+.coruja {
+	padding: 2em 0 2em 0;
+}
+.caveira {
+	padding: 3em 0 4em 0;
+}
+
 .produtos li {
 	display: inline-block;
 	text-align: center;
@@ -187,35 +199,49 @@ nav a:hover {
 	margin: 0 1.5%;
 	padding: 30px 20px;
 	box-sizing: border-box;
-	border: 2px solid #14003d ;
+	border: 4px solid #14003d ;
 	border-radius: 50px;
+	opacity: 0.5;
 }
 
 .produtos li:hover {
-	border-color: #C78C19;
+	border-color: #ff00e2;
+	opacity: 1;
+	transition: 1s;
 }
 
 .produtos li:active {
-	border-color: #088C19;
+	border-color: #1abaff;
 }
 
 .produtos li:hover h2 {
-	font-size: 35px;
+	font-size: 3em;
+	transition: 1s;
+	color: #1abaff;
+
 }
 
 .produtos h2 {
-	font-size: 25px;
-	font-weight: bolder;
+	font-size: 2em;
+	font-weight: bold;
+	font-family: 'Splash', cursive;
+	color: #000000;
+}
+
+.produtos li:active h2 {
+	color: #ff00e2;
 }
 
 .produto-des {
 	font-size: 20px;
+	font-family: 'Audiowide', cursive;
 }
 
 .produto-preco {
 	font-weight: bold;
 	font-size: 22px;
 	margin-top: 10px;
+	font-family: 'Audiowide', cursive;
 }
 
 /* Css da página de contatos */
