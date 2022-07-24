@@ -39,6 +39,7 @@ nav a:hover {
 	transition: 1s;
 }
 
+
 /* Css da página home */
 
 .instal {
@@ -172,12 +173,13 @@ nav a:hover {
 	margin: 2em;
 }
 
+
 /* Css da página de pacotes*/
 
 .produtos {
 	width: 940px;
 	margin: 0 auto;
-	padding: 50px 0;
+	padding: 2em 0;
 }
 
 .produtos img {
@@ -255,20 +257,26 @@ main {
 }
 
 Form {
-	margin: 40px 0;
+	padding: 1em;
 }
 
 form label, form legend  {
 	display: block;
 	font-size: 20px;
 	margin: 0 0 10px;
+	font-family: 'Audiowide', cursive;
+	padding: 1em 0 0 0;
+	color: #FFFFFF;
+	
 }
+
+
 
  .input-padrao {
 	display: block;
-	margin: 0 0 20px;
-	padding: 10px 25px;
+	padding: 1em 2em;
 	width: 50%;
+	color: #ff00e2 ;
 }
 
 .checkbox {
@@ -294,7 +302,12 @@ form label, form legend  {
 }
 
 table {
-	margin: 20px 40px;
+	color: #FFFFFF;
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+
+
 }
 
 thead {
@@ -304,11 +317,20 @@ thead {
 
 }
 
+tbody {
+	margin: 3em 0 1em 0;
+}
+
+.tabela {
+	padding: 1em 0 2em;
+ 
+}
 
 
 td, th  {
 	border: 1px solid #000000;
 	padding: 8px 15px;
+	font-family:'Audiowide', cursive; ;
 }
 
 
@@ -316,7 +338,7 @@ footer {
 	text-align: center;
 	color: #FFFFFF;
 	background:  url(./assets/dragao.png);
-	background-position: center;:
+	background-position: center;
 	padding: 0px 0;
 	height: 417px;
 
@@ -326,3 +348,9 @@ footer {
 	margin: 0px;
 }
 
+
+/* Css das páginas para Cel */
+
+@media screen and (max-width: 480px) {
+
+}
