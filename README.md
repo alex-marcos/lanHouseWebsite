@@ -17,3 +17,8 @@ O projeto inicial era uma página com HTML e CSS com o design de barbearia, entr
 algumas alterações tanto no design quanto no tema da página para poder estudar novas técnicas.
 
 O projeto foi finalizado no dia 24/07/2022.
+
+<h3 align="center">Técnologias usadas:</h3>
+
+<img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
