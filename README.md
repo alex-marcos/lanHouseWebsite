@@ -8,6 +8,7 @@ Esse é o primeiro projeto que fiz, um estudo de HTML e CSS e todas as suas func
 * - Link da página com mapas do Google maps
 * - Link da página com vídeos do Youtube
 * - Responsividade da página com dispositivos mobile
+* - Interatividade com os elementos ao passar o mouse em cima e ao clicar
 
 Entre outras funcionalidades...
 
@@ -18,7 +19,13 @@ algumas alterações tanto no design quanto no tema da página para poder estuda
 
 O projeto foi finalizado no dia 24/07/2022.
 
-<h3 align="center">Técnologias usadas:</h3>
+<h3 align="center">Imagens do resultado:</h3>
+
+<img align="center" alt="Design do site" height="200" width="500" src="./design/header_home.png">
+<img align="center" alt="Design do site" height="200" width="500" src="./design/main_home.png">
+<img align="center" alt="Design do site" height="200" width="500" src="./design/footer_home.png">
+
+<h4 align="center">Técnologias usadas:</h4>
 
 <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
