@@ -31,5 +31,5 @@ O projeto foi finalizado no dia 24/07/2022.
   <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-# Link abaixo para vizualizar o projeto: 
+# Link abaixo para visualizar o projeto: 
 https://laetuus.github.io/lanHouseWebsite/index.html
