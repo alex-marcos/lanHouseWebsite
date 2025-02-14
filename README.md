@@ -32,4 +32,4 @@ O projeto foi finalizado no dia 24/07/2022.
 </div>
 
 # Link abaixo para visualizar o projeto: 
-https://laetuus.github.io/lanHouseWebsite/index.html
+https://alex-marcos.github.io/lanHouseWebsite/index.html
